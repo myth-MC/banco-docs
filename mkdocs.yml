@@ -17,6 +17,7 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tooltips
+    - navigation.footer
   palette:
     primary: brown
     scheme: slate
@@ -47,6 +48,8 @@ extra:
       link: https://github.com/myth-MC/banco
     - icon: fontawesome/brands/discord
       link: https://discord.gg/
+    - icon: simple/kofi
+      link: https://ko-fi.com/mythMC
   version:
     provider: mike
 
