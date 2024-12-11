@@ -12,7 +12,7 @@
     If your server is updated you can report bugs [in our GitHub repository](https://github.com/myth-MC/banco/issues) or [our Discord server](https://discord.gg/bpkwdzREcR).
 
 ??? question "How do I set up banco?"
-    We recommend going through [our quickstart guide](../getting-started/quickstart.md), which covers a good portion of banco's possibilities and provides practical examples.
+    We recommend going through [our quickstart guide](../getting-started/index.md), which covers a good portion of banco's possibilities and provides practical examples.
 
     Our support team will also help if you are willing to join [our Discord server](https://discord.gg/bpkwdzREcR).
 

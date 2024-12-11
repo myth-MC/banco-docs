@@ -18,6 +18,7 @@ theme:
     - content.code.annotate
     - content.tooltips
     - navigation.footer
+    - navigation.top
   palette:
     primary: brown
     scheme: slate
@@ -42,6 +43,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+plugins:
+  - search
+  - macros
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -52,6 +57,7 @@ extra:
       link: https://ko-fi.com/mythMC
   version:
     provider: mike
+  since_1-x: '![Static Badge](https://img.shields.io/badge/since-1.x-blue?style=flat)'
 
 nav:
   - Welcome: index.md
